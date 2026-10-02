@@ -2,7 +2,7 @@
 
 Dashboard interactivo para analizar estudios de neurodiagnóstico (EEG, EMG y Potenciales Evocados).
 
-**Ver demo:** https://jeremias123r.github.io/pulso/
+**Ver demo:** https://jeremias123r.github.io/Pulso/
 ## Qué muestra
 - Total de estudios, porcentaje de resultados alterados y edad promedio
 - Estudios por tipo, por mes y por rango de edad
